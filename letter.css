@@ -584,6 +584,8 @@ body {
   justify-content: center;
   align-items: center;
   visibility: hidden;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 #card h2 {
   font-size: 3em;
@@ -593,7 +595,7 @@ body {
   text-align: center;
 }
 #card p {
-  margin-top: 10px;
+  margin-top: 0px;
   font-size: 1.6em;
   text-align: justify;
   padding-left: 30px; /* Espacio en blanco a la izquierda */
@@ -620,7 +622,8 @@ body {
   letter-spacing: 2px;
   width: 100%;
   color: #e01911;
-  font-weight: 550;
+  font-weight: 600;
+  margin-bottom: 15px;
 }
 
 .side {
