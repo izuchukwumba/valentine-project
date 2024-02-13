@@ -566,6 +566,9 @@ i:nth-child(40) {
     opacity: 0;
   }
 }
+body {
+  max-height: 100vh;
+}
 #card {
   height: 500px;
   width: 800px;
