@@ -567,7 +567,7 @@ i:nth-child(40) {
   }
 }
 body {
-  max-height: 100vh;
+  max-height: 100dvh;
 }
 #card {
   height: 500px;
@@ -645,7 +645,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  height: 100dvh;
   font-family: "Sacramento", cursive;
   background-color: #f1e3d3;
   overflow: hidden;
