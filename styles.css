@@ -77,6 +77,8 @@ body {
   text-decoration: none;
 }
 .night {
+  max-height: 100vh;
+
   position: fixed;
   left: 50%;
   top: 0;
